@@ -64,8 +64,9 @@ This is NazyFlox — your trusted electronics and technology business in Umuahia
 🌍 We also provide import and export services for electronic devices.
 
 📍 Location: Umuahia, Abia State
-📞 Phone: +234 912 463 2268
+📞 Phone: +234 703 308 5090
 💬 WhatsApp: +234 703 308 5090
+🌐 Website: https://chally-lang.github.io/nazyflox/
 
 We are happy to help you with your electronic needs.
 
